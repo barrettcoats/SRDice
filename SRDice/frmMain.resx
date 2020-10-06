@@ -117,7 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="textBox2.Text" xml:space="preserve">
+  <data name="txtOutput.Text" xml:space="preserve">
     <value>Enter a number of d6 to roll.
 
 If you want to use Rule of Six (aka. re-roll the 6s), then check the box.
